@@ -215,12 +215,6 @@ In this section, you will visually analyze the cluster analysis results by obser
 
 To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
 
-> **Note** You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Submit, and then indicate you are skipping by typing “I choose to skip this assignment” in the text box.
 
-Comments are disabled for graded submissions in BootCamp Spot. If you have questions about your feedback, please notify your instructional staff or your Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Resubmit Assignment button to upload new links. You may resubmit up to three times for a total of four submissions.
-
----
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 
